@@ -10,13 +10,14 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Informatics+Student+@+PENS;IoT+Research+Assistant;Learning+Web+Development;Stock+Market+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Informatics+Student+@+PENS;Product+Owner+and+Flutter+Developer;IoT+Research+Assistant;Stock+Market+Learner" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-- 🔭 I’m currently working on **Smart Agriculture IoT Simulations** <br>
+- 🔭 I’m currently working on **TalentHub (Flutter, on Google Play) & Smart Agriculture IoT Simulations** <br>
+- 💼 I’m the **Product Owner of TalentHub**, a recruitment app built at Lab Agile Product Development <br>
 - 🌱 I’m currently learning **ASP.NET, TS, React & ThingsBoard Edge** <br>
 - 👨‍💻 I assist in **Agricultural IoT Research** at campus <br>
 - ⚡ Fun fact: **I sing in a choir (PSM) & am currently learning about Stocks**
@@ -25,6 +26,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/yeremiaew">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://yremia-code.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-3670A0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:personalyeremia@gmail.com">
@@ -40,6 +45,13 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
